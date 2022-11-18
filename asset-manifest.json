@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/schedule-your-month-app/static/js/main.900099f4.js",
+    "main.js": "/schedule-your-month-app/static/js/main.fbfab4f4.js",
     "static/js/787.16179ad5.chunk.js": "/schedule-your-month-app/static/js/787.16179ad5.chunk.js",
     "index.html": "/schedule-your-month-app/index.html",
-    "main.900099f4.js.map": "/schedule-your-month-app/static/js/main.900099f4.js.map",
+    "main.fbfab4f4.js.map": "/schedule-your-month-app/static/js/main.fbfab4f4.js.map",
     "787.16179ad5.chunk.js.map": "/schedule-your-month-app/static/js/787.16179ad5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.900099f4.js"
+    "static/js/main.fbfab4f4.js"
   ]
 }
