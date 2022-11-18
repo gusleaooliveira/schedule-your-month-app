@@ -1,9 +1,12 @@
-import React from 'react'; 
+import React from "react";
 
-function App() {
+const App = () => {
   return (
-<>Hello, Cruel World!</>
-);
-}
+    <>
+      <h1>Hello, Cruel World!</h1>
+      <p>Teste</p>
+    </>
+  );
+};
 
 export default App;
